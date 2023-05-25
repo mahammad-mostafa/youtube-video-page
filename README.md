@@ -10,7 +10,7 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
+- [📖 About The Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -24,24 +24,24 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [YouTube Video Page] <a name="about-project"></a>
+# 📖 About The Project <a name="about-project"></a>
 
-**[YouTube Video Page]** is a pre-enrollment bootcamp project for Microverse program. It mimics only the static structure in a YouTube video page with video and images.
+This is a pre-enrollment bootcamp project for Microverse program. It mimics only the static structure in a YouTube video page with video and images.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack: <a name="tech-stack"></a>
 
 HTML5 & CSS3
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features: <a name="key-features"></a>
 
-- **Responsive web page with all screen sizes**
-- **Hover effects on buttons and thumbnails**
-- **Embeds a live YouTube video to demonstration**
-- **Loads blank images for users and thumbnails**
+- Responsive web page with all screen sizes
+- Hover effects on buttons and thumbnails
+- Embeds a live YouTube video to demonstration
+- Loads blank images for users and thumbnails
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -51,15 +51,15 @@ HTML5 & CSS3
 
 You can easily download or fork this repository and work it at once!
 
-### Prerequisites
+### Prerequisites:
 
 No prior requirements needed!
 
-### Setup
+### Setup:
 
 Simply clone or fork this repository.
 
-### Deployment
+### Deployment:
 
 You can deploy this project by simply uploading the folder to a live server.
 
@@ -67,7 +67,7 @@ You can deploy this project by simply uploading the folder to a live server.
 
 <!-- AUTHOR -->
 
-## 👤 Author <a name="author"></a>
+# 👤 Author <a name="author"></a>
 
 - [GitHub](https://github.com/mahammad-mostafa)
 - [Twitter](https://twitter.com/mahammad_mostfa)
@@ -77,18 +77,18 @@ You can deploy this project by simply uploading the folder to a live server.
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+# 🔭 Future Features <a name="future-features"></a>
 
 Some additional features may be added to the project:
 
-- [ ] **[Dynamically loaded comments]**
-- [ ] **[Posting and replying to comments]**
+- [ ] Dynamically loaded comments
+- [ ] Posting and replying to comments
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+# 📝 License <a name="license"></a>
 
 This project is [MIT](LICENSE.md) licensed.
 
