@@ -69,9 +69,9 @@ You can deploy this project by simply uploading the folder to a live server.
 
 ## 👤 Author <a name="author"></a>
 
-- GitHub: [@githubhandle](https://github.com/mahammad-mostafa)
-- Twitter: [@twitterhandle](https://twitter.com/mahammad_mostfa)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/mahammad-mostafa)
+- [GitHub](https://github.com/mahammad-mostafa)
+- [Twitter](https://twitter.com/mahammad_mostfa)
+- [LinkedIn](https://linkedin.com/in/mahammad-mostafa)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,6 +90,6 @@ Some additional features may be added to the project:
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
