@@ -1,19 +1,12 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <h3>YouTube Video Page</h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Contents
+# 📗 Contents
 
-- [📖 About The Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+- [📖 About](#about-project)
+  - [Tech Stack](#tech-stack)
+  - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -24,15 +17,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 About The Project <a name="about-project"></a>
+# 📖 About <a name="about-project"></a>
 
 This is a pre-enrollment bootcamp project for Microverse program. It mimics only the static structure in a YouTube video page with video and images.
 
-## 🛠 Built With <a name="built-with"></a>
-
 ### Tech Stack: <a name="tech-stack"></a>
 
-HTML5 & CSS3
+`HTML5` & `CSS3`
 
 <!-- Features -->
 
@@ -47,7 +38,7 @@ HTML5 & CSS3
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+# 💻 Getting Started <a name="getting-started"></a>
 
 You can easily download or fork this repository and work it at once!
 
