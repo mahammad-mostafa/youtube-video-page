@@ -1,7 +1,7 @@
 body
 {
     color: #f1f1f1;
-    font-family: tahoma;
+    font: 14px tahoma;
     padding: 50px 0 0;
     background-color: #0f0f0f;
     margin: 0;
@@ -14,15 +14,14 @@ body
     z-index: 99;
     display: flex;
     padding: 7px 20px;
-    justify-content: space-between;
     background-color: #0f0f0f;
+    justify-content: space-between;
 }
 .menu-section
 {
     display: flex;
     gap: 15px;
     align-items: center;
-    justify-content: space-between;
 }
 .menu-icon
 {
@@ -80,7 +79,7 @@ body
     font: 20px awesome;
     background-color: rgba(255,255,255,.1);
 }
-.menu-user
+.menu-user , .page-video-controls-channel-image
 {
     display: block;
     width: 40px;
@@ -100,7 +99,7 @@ body
 }
 .page-video
 {
-    width: calc(80% - 20px);
+    width: calc(100% - 320px);
 }
 .page-video-player
 {
@@ -117,8 +116,84 @@ body
     height: 100%;
     border: 0;
 }
-
+.page-video-title
+{
+    font: bold 18px tahoma;
+    margin: 15px 0 10px;
+}
+.page-video-controls
+{
+    display: flex;
+    justify-content: space-between;
+}
+.page-video-controls-channel
+{
+    display: flex;
+    gap: 20px;
+}
+.page-video-controls-channel-name
+{
+    font: bold 16px tahoma;
+    margin-bottom: 5px;
+}
+.page-video-controls-channel-subscribers
+{
+    color: rgba(255,255,255,.5);
+    font-size: 12px;
+}
+.page-video-controls-channel-button
+{
+    cursor: pointer;
+    color: #0f0f0f;
+    padding: 5px 15px;
+    font: bolder 14px tahoma;
+    background-color: #f1f1f1;
+    border-radius: 20px;
+    border: 0;
+}
+.page-video-controls-buttons
+{
+    display: flex;
+    gap: 10px;
+    margin-inline-start: 40px;
+}
+.page-video-controls-buttons-item
+{
+    display: flex;
+    gap: 1px;
+    overflow: hidden;
+    border-radius: 20px;
+}
+.page-video-controls-buttons-item-button
+{
+    cursor: pointer;
+    display: flex;
+    gap: 10px;
+    color: #f1f1f1;
+    padding: 0 20px;
+    background-color: rgba(255,255,255,.1);
+    border: 0;
+}
+.page-video-controls-buttons-item-button:hover
+{
+    background-color: rgba(255,255,255,.2);
+}
+.page-video-controls-buttons-item-button-text
+{
+    font: bolder 12px/40px tahoma;
+}
+.page-video-controls-buttons-item-button-icon
+{
+    font: 20px/40px awesome;
+}
+.page-video-description
+{
+    padding: 15px;
+    background-color: rgba(255,255,255,.1);
+    border-radius: 5px;
+    margin: 15px 0 20px;
+}
 .page-previews
 {
-    width: calc(20% - 20px);
+    width: 300px;
 }
