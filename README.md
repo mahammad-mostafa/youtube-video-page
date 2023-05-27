@@ -11,7 +11,7 @@
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Deployment](#deployment)
-- [👥 Author](#author)
+- [👤 Author](#author)
 - [🔭 Future Features](#future-features)
 - [📝 License](#license)
 
@@ -34,7 +34,7 @@ This is a pre-enrollment bootcamp project for Microverse program. It mimics only
 - Embeds a live YouTube video to demonstration
 - Loads blank images for users and thumbnails
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- GETTING STARTED -->
 
@@ -54,7 +54,7 @@ Simply clone or fork this repository.
 
 You can deploy this project by simply uploading the folder to a live server.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- AUTHOR -->
 
@@ -64,7 +64,7 @@ You can deploy this project by simply uploading the folder to a live server.
 - [Twitter](https://twitter.com/mahammad_mostfa)
 - [LinkedIn](https://linkedin.com/in/mahammad-mostafa)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- FUTURE FEATURES -->
 
@@ -75,7 +75,7 @@ Some additional features may be added to the project:
 - [ ] Dynamically loaded comments
 - [ ] Posting and replying to comments
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- LICENSE -->
 
@@ -83,4 +83,4 @@ Some additional features may be added to the project:
 
 This project is [MIT](LICENSE.md) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
