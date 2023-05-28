@@ -4,9 +4,10 @@
 
 # 📗 Contents
 
-- [📖 About](#about-project)
+- [📖 Description](#about-project)
   - [Tech Stack](#tech-stack)
   - [Key Features](#key-features)
+  - [Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -17,7 +18,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 About <a name="about-project"></a>
+# 📖 Description <a name="about-project"></a>
 
 This is a pre-enrollment bootcamp project for Microverse program. It mimics only the static structure in a YouTube video page with video and images.
 
@@ -25,14 +26,17 @@ This is a pre-enrollment bootcamp project for Microverse program. It mimics only
 
 `HTML5` & `CSS3`
 
-<!-- Features -->
-
 ### Key Features: <a name="key-features"></a>
 
 - Responsive web page with all screen sizes
 - Hover effects on buttons and thumbnails
 - Embeds a live YouTube video to demonstration
 - Loads blank images for users and thumbnails
+
+### Live Demo: <a name="live-demo"></a>
+
+Check a live version of this project with this link:<br/>
+https://zone-tech.info/youtube
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
