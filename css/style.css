@@ -17,13 +17,13 @@ body
     background-color: #0f0f0f;
     justify-content: space-between;
 }
-.menu-section
+.menu-body-section
 {
     display: flex;
     gap: 15px;
     align-items: center;
 }
-.menu-icon , .page-comments-list-item-buttons-icon
+.menu-body-section-icon , .page-comments-list-item-buttons-icon
 {
     cursor: pointer;
     width: 40px;
@@ -31,15 +31,15 @@ body
     font: 20px/40px awesome;
     border-radius: 50%;
 }
-.menu-icon:hover , .page-comments-button:hover , .page-comments-list-item-buttons-icon:hover , .page-comments-list-item-buttons-text:hover
+.menu-body-section-icon:hover , .page-comments-button:hover , .page-comments-list-item-buttons-icon:hover , .page-comments-list-item-buttons-text:hover
 {
     background-color: rgba(255,255,255,.2);
 }
-.menu-logo
+.menu-body-section-logo
 {
     height: 25px;
 }
-.menu-link
+.menu-body-section-link
 {
     display: flex;
     gap: 5px;
@@ -48,7 +48,7 @@ body
     align-items: center;
     text-decoration: none;
 }
-.menu-form
+.menu-body-section-form
 {
     display: flex;
     width: 50vw;
@@ -60,7 +60,7 @@ body
     box-sizing: border-box;
     margin: 0;
 }
-.menu-input
+.menu-body-section-form-input
 {
     width: calc(100% - 60px);
     color: inherit;
@@ -70,7 +70,7 @@ body
     border: 0;
     outline: none;
 }
-.menu-button
+.menu-body-section-form-button
 {
     cursor: pointer;
     width: 60px;
@@ -79,10 +79,10 @@ body
     font: 20px awesome;
     background-color: rgba(255,255,255,.1);
 }
-.menu-user , .page-video-controls-channel-image , .page-comments-list-item-image
+.menu-body-section-user , .page-video-controls-channel-image , .page-comments-list-item-image
 {
     display: block;
-    width: 40px;
+    min-width: 40px;
     height: 40px;
     overflow: hidden;
     text-decoration: none;
@@ -108,7 +108,7 @@ body
     position: relative;
     overflow: hidden;
     padding-top: 50%;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .page-video-frame
 {
@@ -138,6 +138,9 @@ body
 .page-video-controls-channel-name , .page-previews-item-title , .page-comments-list-item-name
 {
     font: bold 16px tahoma;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
     margin-bottom: 5px;
 }
 .page-video-controls-channel-subscribers , .page-previews-item-text , .page-comments-list-item-time
@@ -159,7 +162,6 @@ body
 {
     display: flex;
     gap: 10px;
-    margin-inline-start: 40px;
 }
 .page-video-controls-buttons-item
 {
@@ -317,4 +319,38 @@ body
     padding: 0 10px;
     font: 14px/30px tahoma;
     border-radius: 10px;
+}
+@media(max-width:1320px)
+{
+    .page-video-controls-buttons-item-button-text { display: none; }
+}
+@media(max-width:1200px)
+{
+    .page-video-controls-buttons-item-button { width: 50px; padding: 0 10px; }
+    .page-video-controls-buttons-item-button-icon { margin: auto; }
+}
+@media(max-width:992px)
+{
+    .menu-body { justify-content: flex-end; }
+    .menu-body-section:nth-child(1) { position: absolute; top: 7px; inset-inline-start: 20px; }
+    .menu-body-section:nth-child(2) { margin-inline-end: 10px; }
+    .menu-body-section-form { width: 40px; border-color: transparent; }
+    .menu-body-section-form-input { display: none; }
+    .menu-body-section-form-button { width: 40px; line-height: 35px; background-color: transparent; }
+    .menu-body-section-form-button:hover { background-color: rgba(255,255,255,.2); }
+    .page-body { grid-template-rows: repeat(3,auto); grid-template-columns: 100%; }
+    .page-previews { grid-row: 2; width: 100%; }
+    .page-comments { grid-row: 3; }
+}
+@media(max-width:768px)
+{
+    .menu-body { padding: 10px; }
+    .menu-body-section , .page-video-controls-channel { gap: 5px; }
+    .menu-body-section-title { display: none; }
+    .menu-body-section:nth-child(1) { position: absolute; top: 10px; inset-inline-start: 10px; }
+    .menu-body-section:nth-child(2) { margin-inline-end: 5px; }
+    .page-video-title { margin: 20px 0; }
+    .page-video-controls { flex-direction: column; gap: 20px; }
+    .page-video-controls-channel { position: relative }
+    .page-video-controls-channel-button { position: absolute; top: 0; inset-inline-end: 0; height: 100%; }
 }
