@@ -23,7 +23,7 @@ body
     gap: 15px;
     align-items: center;
 }
-.menu-icon
+.menu-icon , .page-comments-list-item-buttons-icon
 {
     cursor: pointer;
     width: 40px;
@@ -31,7 +31,7 @@ body
     font: 20px/40px awesome;
     border-radius: 50%;
 }
-.menu-icon:hover
+.menu-icon:hover , .page-comments-button:hover , .page-comments-list-item-buttons-icon:hover , .page-comments-list-item-buttons-text:hover
 {
     background-color: rgba(255,255,255,.2);
 }
@@ -79,7 +79,7 @@ body
     font: 20px awesome;
     background-color: rgba(255,255,255,.1);
 }
-.menu-user , .page-video-controls-channel-image
+.menu-user , .page-video-controls-channel-image , .page-comments-list-item-image
 {
     display: block;
     width: 40px;
@@ -135,12 +135,12 @@ body
     display: flex;
     gap: 20px;
 }
-.page-video-controls-channel-name , .page-previews-item-title
+.page-video-controls-channel-name , .page-previews-item-title , .page-comments-list-item-name
 {
     font: bold 16px tahoma;
     margin-bottom: 5px;
 }
-.page-video-controls-channel-subscribers , .page-previews-item-text
+.page-video-controls-channel-subscribers , .page-previews-item-text , .page-comments-list-item-time
 {
     color: rgba(255,255,255,.5);
     font-size: 12px;
@@ -205,13 +205,19 @@ body
     grid-row: 1 / span 3;
     flex-direction: column;
 }
-.page-previews-buttons , .page-previews-item
+.page-previews-buttons , .page-previews-item , .page-comments-list-item-buttons , .page-comments-list-item
 {
     display: flex;
     gap: 10px;
 }
+.page-previews-item
+{
+    color: inherit;
+    text-decoration: none;
+}
 .page-previews-buttons-item
 {
+    cursor: pointer;
     color: #f1f1f1;
     padding: 0 15px;
     font: 14px/30px tahoma;
@@ -235,4 +241,80 @@ body
 .page-comments
 {
     grid-row: 2;
+}
+.page-comments-title
+{
+    font-weight: bolder;
+    margin-inline-end: 20px;
+}
+.page-comments-button , .page-comments-list-item-buttons-icon , .page-comments-list-item-form-button , .page-comments-list-item-buttons-text
+{
+    cursor: pointer;
+    color: inherit;
+    background-color: transparent;
+    border: 0;
+}
+.page-comments-button-icon
+{
+    font: 18px awesome;
+}
+.page-comments-button-text
+{
+    font-size: 14px;
+}
+.page-comments-list
+{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.page-comments-list-item-form
+{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.page-comments-list-item-form-input
+{
+    width: 100%;
+    font-size: 14px;
+    padding: 5px;
+    border: 0;
+    color: inherit;
+    background-color: transparent;
+    border-bottom: solid 1px rgba(255,255,255,.5);
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    outline: 0;
+}
+.page-comments-list-item-form-button
+{
+    padding: 0 20px;
+    font: 14px/40px tahoma;
+    border-radius: 20px;
+}
+.page-comments-list-item-form-button:disabled
+{
+    float: inline-end;
+    color: #0f0f0f;
+    background-color: rgba(255,255,255,.1);
+    margin-bottom: -10px;
+}
+.page-comments-list-item-text
+{
+    color: rgba(255,255,255,.75);
+    margin: 5px 0;
+}
+.page-comments-list-item-buttons-icon
+{
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
+.page-comments-list-item-buttons-text
+{
+    padding: 0 10px;
+    font: 14px/30px tahoma;
+    border-radius: 10px;
 }
