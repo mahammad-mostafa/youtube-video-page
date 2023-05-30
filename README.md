@@ -4,17 +4,21 @@
 
 # 📗 Contents
 
-- [📖 Description](#about-project)
+[📖 Description](#about-project)
   - [Tech Stack](#tech-stack)
   - [Key Features](#key-features)
   - [Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+
+[💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Deployment](#deployment)
-- [👤 Author](#author)
-- [🔭 Future Features](#future-features)
-- [📝 License](#license)
+
+[👤 Author](#author)
+
+[🔭 Future Features](#future-features)
+
+[📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
