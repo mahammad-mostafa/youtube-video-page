@@ -1,96 +1,95 @@
-<a name="readme-top"></a>
+<a name="title"></a>
+
+<!-- PROJECT TITLE -->
+
+# 🏷️ YouTube Video Page
+
+This is a pre-enrollment bootcamp project for **Microverse** program. Check the below contents for futher details about this project.
 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Contents
 
-[📖 Description](#about-project)
-  - [Tech Stack](#tech-stack)
-  - [Key Features](#key-features)
-  - [Live Demo](#live-demo)
-
-[💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Deployment](#deployment)
-
-[👤 Author](#author)
-
-[🔭 Future Features](#future-features)
-
-[📝 License](#license)
+- [Description](#description)
+- [Instructions](#instructions)
+- [Authors](#authors)
+- [Future](#future)
+- [License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Description <a name="about-project"></a>
+<a name="description"></a>
 
-This is a pre-enrollment bootcamp project for Microverse program. It mimics only the static structure in a YouTube video page with video and images.
+# 📖 Description
 
-### Tech Stack: <a name="tech-stack"></a>
+It mimics only the static structure of a single page in `YouTube`. The page contains three sections (video/comments/previews).
+The projects uses `FontAwesome` legacy version for icons. CSS styling was used to mimic the YouTube video page as close as possible.
 
+**Tech Stack:**<br/>
 `HTML5` & `CSS3`
 
-### Key Features: <a name="key-features"></a>
-
+**Key Features:**
 - Responsive web page with all screen sizes
 - Hover effects on buttons and thumbnails
 - Embeds a live YouTube video to demonstration
 - Loads blank images for users and thumbnails
 
-### Live Demo: <a name="live-demo"></a>
+**Live Demo:**<br/>
+Check a live version of this project with this [link](https://zone-tech.info/youtube).
 
-Check a live version of this project with this link:<br/>
-https://zone-tech.info/youtube
-
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#title">back to top</a></p>
 
 <!-- GETTING STARTED -->
 
-# 💻 Getting Started <a name="getting-started"></a>
+<a name="instructions"></a>
 
-You can easily download or fork this repository and work it at once!
+# 💻 Instructions
 
-### Prerequisites:
+You can easily download or fork this repository and work on it at once!
 
+**Prerequisites:**<br/>
 No prior requirements needed!
 
-### Setup:
+**Setup:**<br/>
+Simply download or fork this repository.
 
-Simply clone or fork this repository.
-
-### Deployment:
-
+**Deployment:**<br/>
 You can deploy this project by simply uploading the folder to a live server.
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#title">back to top</a></p>
 
 <!-- AUTHOR -->
 
-# 👤 Author <a name="author"></a>
+<a name="authors"></a>
 
-### Mahammad:
+# 👥 Authors
 
+**Mahammad:**
 - [GitHub](https://github.com/mahammad-mostafa)
 - [Twitter](https://twitter.com/mahammad_mostfa)
 - [LinkedIn](https://linkedin.com/in/mahammad-mostafa)
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#title">back to top</a></p>
 
 <!-- FUTURE FEATURES -->
 
-# 🔭 Future Features <a name="future-features"></a>
+<a name="future"></a>
+
+# 🔭 Future
 
 Some additional features may be added to the project:
 
 - [ ] Dynamically loaded comments
 - [ ] Posting and replying to comments
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#title">back to top</a></p>
 
 <!-- LICENSE -->
 
-# 📝 License <a name="license"></a>
+<a name="license"></a>
+
+# 📝 License
 
 This project is [MIT](LICENSE.md) licensed.
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#title">back to top</a></p>
