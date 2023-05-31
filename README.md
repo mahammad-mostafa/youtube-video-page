@@ -1,12 +1,14 @@
 <a name="title"></a>
 
-<!-- PROJECT TITLE -->
+<!-- TITLE -->
 
 # 🏷️ YouTube Video Page
 
-This is a pre-enrollment bootcamp project for **Microverse** program. Check the below contents for futher details about this project.
+This is a pre-enrollment bootcamp project for **Microverse** program.
+<br/>
+Check the below contents for futher details about this project.
 
-<!-- TABLE OF CONTENTS -->
+<!-- CONTENTS -->
 
 # 📗 Contents
 
@@ -14,9 +16,11 @@ This is a pre-enrollment bootcamp project for **Microverse** program. Check the 
 - [Instructions](#instructions)
 - [Authors](#authors)
 - [Future](#future)
+- [Contributing](#contributing)
+- [Support](#support)
 - [License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+<!-- DESCRIPTION -->
 
 <a name="description"></a>
 
@@ -39,7 +43,7 @@ Check a live version of this project with this [link](https://zone-tech.info/you
 
 <p align="right"><a href="#title">back to top</a></p>
 
-<!-- GETTING STARTED -->
+<!-- INSTRUCTIONS -->
 
 <a name="instructions"></a>
 
@@ -58,7 +62,7 @@ You can deploy this project by simply uploading the folder to a live server.
 
 <p align="right"><a href="#title">back to top</a></p>
 
-<!-- AUTHOR -->
+<!-- AUTHORS -->
 
 <a name="authors"></a>
 
@@ -81,6 +85,32 @@ Some additional features may be added to the project:
 
 - [ ] Dynamically loaded comments
 - [ ] Posting and replying to comments
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- CONTRIBUTING -->
+
+<a name="contributing"></a>
+
+# 🤝🏻 Contributing
+
+Wish to contribute to this project?
+<br/>
+Contributions, issues, and feature requests are more than welcome!
+<br/>
+Feel free to check the issues page as well.
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- SUPPORT -->
+
+<a name="support"></a>
+
+# ⭐️ Support
+
+Liked this project?
+<br/>
+Show your support with starring it!
 
 <p align="right"><a href="#title">back to top</a></p>
 
