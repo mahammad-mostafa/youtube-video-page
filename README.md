@@ -29,7 +29,8 @@ Check the below contents for futher details about this project.
 It mimics only the static structure of a single page in `YouTube`. The page contains three sections (video/comments/previews).
 The projects uses `FontAwesome` legacy version for icons. CSS styling was used to mimic the YouTube video page as close as possible.
 
-**Tech Stack:**<br/>
+**Tech Stack:**
+<br/>
 `HTML5` & `CSS3`
 
 **Key Features:**
@@ -38,7 +39,8 @@ The projects uses `FontAwesome` legacy version for icons. CSS styling was used t
 - Embeds a live YouTube video to demonstration
 - Loads blank images for users and thumbnails
 
-**Live Demo:**<br/>
+**Live Demo:**
+<br/>
 Check a live version of this project with this [link](https://zone-tech.info/youtube).
 
 <p align="right"><a href="#title">back to top</a></p>
@@ -51,13 +53,16 @@ Check a live version of this project with this [link](https://zone-tech.info/you
 
 You can easily download or fork this repository and work on it at once!
 
-**Prerequisites:**<br/>
+**Prerequisites:**
+<br/>
 No prior requirements needed!
 
-**Setup:**<br/>
+**Setup:**
+<br/>
 Simply download or fork this repository.
 
-**Deployment:**<br/>
+**Deployment:**
+<br/>
 You can deploy this project by simply uploading the folder to a live server.
 
 <p align="right"><a href="#title">back to top</a></p>
