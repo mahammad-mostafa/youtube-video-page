@@ -6,7 +6,7 @@
 
 This is a pre-enrollment bootcamp project for **Microverse** program.
 <br/>
-Check the below contents for futher details about this project.
+Check the below contents for further details about this project.
 
 <!-- CONTENTS -->
 
@@ -31,8 +31,8 @@ It mimics only the static structure of a single page in `YouTube`. The page cont
 The projects uses `FontAwesome` legacy version for icons. CSS styling was used to mimic the YouTube video page as close as possible.
 
 📌 **Tech Stack:**
-<br/>
-`HTML5` & `CSS3`
+- Page strucutre is built with `HTML5`
+- Styling and effects built with `CSS3`
 
 📌 **Key Features:**
 - Responsive web page with all screen sizes
@@ -41,8 +41,7 @@ The projects uses `FontAwesome` legacy version for icons. CSS styling was used t
 - Loads blank images for users and thumbnails
 
 📌 **Live Demo:**
-<br/>
-Check a live version of this project with this [link](https://zone-tech.info/youtube).
+- Check a live version of this project with this [link](https://zone-tech.info/youtube).
 
 <p align="right"><a href="#title">back to top</a></p>
 
@@ -55,16 +54,13 @@ Check a live version of this project with this [link](https://zone-tech.info/you
 You can easily download or fork this repository and work on it immediately!
 
 📌 **Prerequisites:**
-<br/>
-No prior requirements needed!
+- No prior requirements needed!
 
 📌 **Setup:**
-<br/>
-Simply download or fork this repository.
+- Simply download or fork this repository.
 
 📌 **Deployment:**
-<br/>
-You can deploy this project by simply uploading the folder to a live server.
+- You can deploy this project by simply uploading the folder to a live server.
 
 <p align="right"><a href="#title">back to top</a></p>
 
