@@ -41,7 +41,7 @@ The projects uses `FontAwesome` legacy version for icons. CSS styling was used t
 - Loads blank images for users and thumbnails
 
 📌 **Live Demo:**
-- Check a live version of this project with this [link](https://zone-tech.info/youtube).
+- Check a live version of this project with this [link](https://mahammad-mostafa.github.io/youtube-video-page).
 
 <p align="right"><a href="#title">back to top</a></p>
 
